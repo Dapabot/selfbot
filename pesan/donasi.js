@@ -5,7 +5,8 @@ return`
 │  Bantu Developer ngembangin bot ini
 │  dengan donasi seiklasnya 🙂
 │
-│  Gopay : 6289525641549
+│  Gopay : 085868010957
+│  Saweria : https://saweria.co/dapagans
 │ 
 │ Makasih yang udah donasi
 │ dan bantu ngembangin bot ini
